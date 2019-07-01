@@ -1,5 +1,12 @@
+/* 
+    author : Shahriar Newaz Shuvo
+    cf : thedragonslayer
 
-//#pragma comment(linker, "/stack:247474112")
+*/
+
+
+
+// #pragma comment(linker, "/stack:247474112")
 // #pragma GCC optimize("Ofast")
 // #pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx,tune=native") 
 // #pragma GCC optimize("unroll-loops")
